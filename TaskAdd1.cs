@@ -1,3 +1,4 @@
+/*
 Console.WriteLine("Семинар 1 ДЗ Доп. Задача 1");
 Console.WriteLine("Введите число больше нуля:");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -14,3 +15,4 @@ else
 {
     Console.WriteLine("Введено некорректное число");
 }
+*/
