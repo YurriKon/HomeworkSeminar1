@@ -1,4 +1,4 @@
-Console.WriteLine("Семинар 1 ДЗ Задача 6");
+/*Console.WriteLine("Семинар 1 ДЗ Задача 6");
 Console.WriteLine("Введите число:");
 int N = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("-----");
@@ -8,3 +8,4 @@ while (a < N)
     Console.WriteLine(a);
     a+=2;
 }
+*/
