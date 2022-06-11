@@ -1,3 +1,4 @@
+/*
 Console.WriteLine("Семинар 1 ДЗ Задача 6");
 Console.WriteLine("Введите число:");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -9,3 +10,4 @@ else
 {
     Console.WriteLine("Число является нечетным");
 }
+*/
