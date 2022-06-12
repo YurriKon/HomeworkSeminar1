@@ -1,3 +1,4 @@
+/*
 Console.WriteLine("Семинар 1 ДЗ Доп. Задача 3");
 Console.WriteLine("Введите рост первого спортсмена:");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -42,3 +43,4 @@ if (c > b && b > a)
 Console.WriteLine(first);
 Console.WriteLine(second);
 Console.WriteLine(third);
+*/
